@@ -1,4 +1,9 @@
 A simple boxing timer
 
-// next steps - 
-// refactor for mobile deployment
+1 round:
+
+GREEN:  2:30
+YELLOW:  :30
+RED:    1:00
+
+Rounds loop continuously until reset
